@@ -8,15 +8,16 @@
 
 <br/>
 
+## About me 
+---
 - 🔭 currently building **yin-yang**
 - 🐧 daily driving arch + hyprland
 - ⚡ self-taught, 14, berlin
 - 🌱 always shipping something that probably shouldn't exist
-
-<br/>
+---
 
 ## Stack
-
+---
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-CBA6F7?style=for-the-badge&logo=typescript&logoColor=1E1E2E)
@@ -28,10 +29,9 @@
 
 </div>
 
-<br/>
-
+---
 ## Projects
-
+---
 <div align="center">
 
 [![yin-yang](https://img.shields.io/badge/yin--yang-CBA6F7?style=for-the-badge&logo=github&logoColor=1E1E2E)](https://github.com/puukis/yin-yang)
@@ -39,6 +39,7 @@
 
 </div>
 
+---
 
 ## Stats
 
