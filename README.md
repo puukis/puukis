@@ -34,6 +34,8 @@
 
 ## Projects
 
+<br/>
+
 <div align="center">
 
 [![yin-yang](https://img.shields.io/badge/yin--yang-CBA6F7?style=for-the-badge&logo=github&logoColor=1E1E2E)](https://github.com/puukis/yin-yang)
