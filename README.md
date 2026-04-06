@@ -19,6 +19,8 @@
 
 ## Stack
 
+<br/>
+
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-CBA6F7?style=for-the-badge&logo=typescript&logoColor=1E1E2E)
