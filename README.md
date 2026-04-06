@@ -8,16 +8,14 @@
 
 <br/>
 
-## About Me
-
-- 🔭 currently building **yin-yang**
+- 🔭 currently building **yin-yang** & **keygate**
 - 🐧 daily driving arch + hyprland
 - ⚡ self-taught, 14, berlin
 - 🌱 always shipping something that probably shouldn't exist
 
 <br/>
 
-## Stack
+## stack
 
 <div align="center">
 
@@ -32,23 +30,23 @@
 
 <br/>
 
-## Projects
+## projects
 
 <div align="center">
 
-[![yin-yang](https://github-readme-stats.vercel.app/api/pin/?username=puukis&repo=yin-yang&theme=catppuccin_mocha&hide_border=true)](https://github.com/puukis/yin-yang)
-[![keygate](https://github-readme-stats.vercel.app/api/pin/?username=puukis&repo=keygate&theme=catppuccin_mocha&hide_border=true)](https://github.com/puukis/keygate)
+[![yin-yang](https://img.shields.io/badge/yin--yang-CBA6F7?style=for-the-badge&logo=github&logoColor=1E1E2E)](https://github.com/puukis/yin-yang)
+[![keygate](https://img.shields.io/badge/keygate-89B4FA?style=for-the-badge&logo=github&logoColor=1E1E2E)](https://github.com/puukis/keygate)
 
 </div>
 
 <br/>
 
-## Stats
+## stats
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=puukis&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puukis&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=puukis&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&rank_icon=github" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puukis&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6&cache_seconds=1800" />
 
 </div>
 
