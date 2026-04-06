@@ -8,14 +8,14 @@
 
 <br/>
 
-- 🔭 currently building **yin-yang** & **keygate**
+- 🔭 currently building **yin-yang**
 - 🐧 daily driving arch + hyprland
 - ⚡ self-taught, 14, berlin
 - 🌱 always shipping something that probably shouldn't exist
 
 <br/>
 
-## stack
+## Stack
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 <br/>
 
-## projects
+## Projects
 
 <div align="center">
 
@@ -39,16 +39,8 @@
 
 </div>
 
-<br/>
 
-## stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=puukis&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&rank_icon=github" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puukis&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6&cache_seconds=1800" />
-
-</div>
+## Stats
 
 <div align="center">
 
