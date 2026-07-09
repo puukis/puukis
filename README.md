@@ -10,8 +10,8 @@
 
 ## About Me
 
-- 🔭 currently building **yin-yang**
-- 🐧 daily driving arch + hyprland
+- 🔭 currently building **aeroagents**
+- 🐧 daily driving cachyos + hyprland
 - ⚡ self-taught, 14, berlin
 - 🌱 always shipping something that probably shouldn't exist
 
